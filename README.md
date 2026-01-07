@@ -100,9 +100,9 @@ Here are some of my favorite projects:
 - **Python Programming** (Kaggle)
 - **Data Visualization** (Kaggle)
 
-## :fire: My Stats :
+<!--- ## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kevin-Mugo&theme=dark&background=000000)](https://git.io/streak-stats)
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevin-Mugo&show_icons=true&theme=radical)
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevin-Mugo&show_icons=true&theme=radical) -->
 
 <div id="visits" align="left">
 <img src="https://komarev.com/ghpvc/?username=Kevin-Mugo&style=flat-square&color=blue" alt=""/>
